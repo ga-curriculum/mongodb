@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[MongoDB] - Fundamentals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
@@ -8,7 +8,7 @@ In MongoDB, we save and retrieve *documents* to and from a *collection*.
 
 Let's take a look at what a MongoDB *document* might look like:
 
-```json
+```js
 {
   _id: ObjectId("5099803df3f4948bd2f98391"),
   name: { first: "Alan", last: "Turing" },
@@ -23,10 +23,7 @@ As you can see, this format looks very much like a JavaScript object.
 
 You’ll be working with documents using JavaScript; therefore, they are JS objects!
 
-<aside>
-📚 A *collection* is a group of related *documents* within a MongoDB database. Collections serve as a container for organizing and storing documents. A *document* is a single record within a collection.
-
-</aside>
+> 📚 A *collection* is a group of related *documents* within a MongoDB database. Collections serve as a container for organizing and storing documents. A *document* is a single record within a collection.
 
 ## The Document `_id`
 
@@ -34,8 +31,6 @@ The `_id` is a special field that represents the document’s *unique identifier
 
 MongoDB automatically creates the `_id` when it saves documents for the first time.
 
-MongoDB uses a special `ObjectId` datatype for the value of `_id`.
-
-`ObjectId`s are JS objects, but we’ll use their string representation most of the time when working with them in Mongoose starting in the next lesson.
+The `id` is a special `ObjectId` datatype. `ObjectId`s are JS objects, but we’ll use their *string representation* most of the time when working with them in Mongoose.
 
 The value that MongoDB creates for the `_id` is exceptionally likely to be *globally unique*. See how MongoDB builds the value of `_id` [**here**](https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb).

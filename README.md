@@ -13,7 +13,7 @@ tktk Write a short but descriptive summary of the content in this module.
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Concepts](./concepts/README.md) | -- | -- | tktk skills covered |
-| [MongoDB Documents](./mongodb-documents/README.md) | -- | -- | tktk skills covered |
+| [Fundamentals](./fundamentals/README.md) | -- | -- | tktk skills covered |
 | [Data Modeling](./data-modeling/README.md) | -- | -- | tktk skills covered |
 | [Database Implementation](./database-implementation/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
