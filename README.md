@@ -6,9 +6,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- MongoDB Atlas Setup Lab
 
 ## Content
 
