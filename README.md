@@ -18,16 +18,13 @@ tktk Write a short but descriptive summary of the content in this module.
 | [MongoDB Documents](./mongodb-documents/README.md) | -- | -- | tktk skills covered |
 | [Data Modeling](./data-modeling/README.md) | -- | -- | tktk skills covered |
 | [Database Implementation](./database-implementation/README.md) | -- | -- | tktk skills covered |
-| [Create a Database](./create-a-database/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| [Create a Database Using Mongo Shell](./create-a-database/README.md) | -- | -- | tktk skills covered |
 | **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
