@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-## MongoDB
+## Implementing Entities & Collections
 
 In MongoDB, unlike with *SQL tables*, there might not be a **collection** for every *data entity*.
 
