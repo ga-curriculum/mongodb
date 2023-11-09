@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-# Data Entities
+## Data Entities
 
 A **data entity** represents a specific *type* of data in an application.
 
