@@ -1,6 +1,6 @@
 # ![[MongoDB] - Fundamentals](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to describe a MongoDB document and what its `_id` is.
 
 ## MongoDB Documents
 

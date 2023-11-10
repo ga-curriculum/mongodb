@@ -1,6 +1,6 @@
 # ![[MongoDB] - Data Modeling](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to understand what a data entity is and how different entities in a database may share relationships with each other.
 
 ## Data Entities
 

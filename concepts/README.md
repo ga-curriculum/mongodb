@@ -1,10 +1,10 @@
 # ![[MongoDB] - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to demonstrate a basic understanding of what a database is and MongoDB's role in database usage.
 
 # What’s a *Database*?
 
-***Databases*** are a way to organize and save - or ***persist*** -  data.
+***Databases*** are a way to organize and save - or ***persist*** - data.
 
 There are many different database systems - check out [**this site**](http://db-engines.com/en/ranking) that tracks the popularity of different database systems.
 
