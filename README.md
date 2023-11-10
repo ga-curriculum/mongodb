@@ -22,7 +22,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Create a Database Using Mongo Shell](./create-a-database/README.md) | -- | -- | tktk skills covered |
+| [Create a Database Using Mongo Shell](./level-up/create-a-database.md) | -- | -- | tktk skills covered |
 | **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
